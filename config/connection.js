@@ -16,7 +16,7 @@ else
     port: '3306',
     user: 'root',
 		password: 'JenMar$0508',
-		database: 'burgers_db'
+		database: 'burgers_db',
 	});
 };
 
